@@ -17,5 +17,7 @@ Levando em consideração que este é o meu primeiro projeto, acredito que o mai
 "*   **Integração:** Continuar a atualizar o banco de dados.
 
 <img src="https://files.fm/thumb_show.php?i=fdsjahrx3z">
-<img src="file:///C:/Users/User/Downloads/1.png.png" alt="Motivação do Projeto">
-<img src="file:///C:/Users/User/Downloads/3.png.png" alt="Motivação do Projeto">
+<img src="https://files.fm/thumb_show.php?i=yvcftphk7h">
+<img src="https://files.fm/thumb_show.php?i=37fz4tw76p">
+
+"* **Curiosidade:** Eu criei a proposta mas depois refleti, repensei... quase nem compartilhei.Mas me lembrei de uma frase: "A rapidez de sua decifração o habilitou a evitar os erros sistemáticos que surgem invariavelmente da reflexão prolongada." No contexto, dentro da minha área de História, tal citação se refere aos hieróglifos e suas interpretações. Por fim, decidi adicionar.
