@@ -1,8 +1,9 @@
 # Projeto_ImersaoIA
-Projeto que visa uma reeducação, ressignificação e compartilhamento das mudanças em nomenclaturas e termos para promover uma linguagem mais inclusiva, o respeito à diversidade e combater a discriminação.     "\n",
-        "\n",
+Projeto que visa uma reeducação, ressignificação e compartilhamento das mudanças em nomenclaturas e termos para promover uma linguagem mais inclusiva, o respeito à diversidade e combater a discriminação.     
+"\n",
+"\n",
 
- "#**Como Funciona**\n",
+ "#**Como Funciona**,
         "Em um primeiro momento, é possível gerar uma palavra e correção de forma aleatória onde, dentro da execução, vai ser acessado um gistfile com alguns dados onde irá mostrar uma palavra como é normalmente usada e em seguida a forma mais correta para que seja possível nos reeducar."\n"
 Exemplo:"\n"
 Palavra: índio / Correção: "Indígena/Povos originários/Nome específico da etnia".
