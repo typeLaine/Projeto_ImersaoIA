@@ -16,6 +16,6 @@ Levando em consideração que este é o meu primeiro projeto, acredito que o mai
 "*   **Interface de Usuário:** Mais interetiva e convidativa.
 "*   **Integração:** Continuar a atualizar o banco de dados.
 
-<img src="file:///C:/Users/User/Downloads/Diversity,%20Acceptance,%20Kindness%20Classroom%20Posters%20(59.4%20x%2042%20cm).png" alt="Logo do Projeto">
+<img src="https://files.fm/f/fdsjahrx3z" alt="Logo do Projeto">
 <img src="file:///C:/Users/User/Downloads/1.png.png" alt="Motivação do Projeto">
 <img src="file:///C:/Users/User/Downloads/3.png.png" alt="Motivação do Projeto">
