@@ -12,7 +12,7 @@ Palavra: índio / Correção: "Indígena/Povos originários/Nome específico da 
 
 **Possíveis Melhorias:**
 
-Levando em consideração que este é o meu primeiro projeto, acredito que o mais proveitoso da experiência seja a ideia, criatividade e vislumbre de tantas novas possibilidades de uso para criarmos a avarçamos como seres humanos e sociedade. Que a tecnologia não evolua sozinha, mas que nos auxilie no processe.
+Levando em consideração que este é o meu primeiro projeto e não possuo expertise na área, acredito que o mais proveitoso da experiência seja a ideia, criatividade e vislumbre de tantas novas possibilidades de uso para criarmos a avarçamos como seres humanos e sociedade. Que a tecnologia não evolua sozinha, mas que nos auxilie no processe.
 **Interface de Usuário:** Mais interetiva e convidativa.
 **Integração:** Continuar a atualizar o banco de dados.
 
