@@ -16,6 +16,6 @@ Levando em consideração que este é o meu primeiro projeto, acredito que o mai
 "*   **Interface de Usuário:** Mais interetiva e convidativa.
 "*   **Integração:** Continuar a atualizar o banco de dados.
 
-<img src="https://files.fm/f/fdsjahrx3z" alt="Logo do Projeto">
+<img src="https://files.fm/thumb_show.php?i=fdsjahrx3z">
 <img src="file:///C:/Users/User/Downloads/1.png.png" alt="Motivação do Projeto">
 <img src="file:///C:/Users/User/Downloads/3.png.png" alt="Motivação do Projeto">
