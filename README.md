@@ -7,7 +7,7 @@ Exemplo:
 
 Palavra: índio / Correção: "Indígena/Povos originários/Nome específico da etnia".
 
-#**Chatbot Mecânico com Google Generative AI:**
+**Chatbot Mecânico com Google Generative AI:**
    Em seguida, é possível criar essa ponte com o modelo Google Generative AI onde, o conhecimento será melhor apronfundado. Com isso, será possível entender o contexto e importância das mudanças apresentadas, a objetividade que busca trabalhar com uma linguagem mais inclusiva e respeitosa para aqueles que, de alguma maneira, se sentem inferiorizadas, excluídos, reprimidos e hostilizados.
 
 #**Possíveis Melhorias:**
