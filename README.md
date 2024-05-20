@@ -16,7 +16,6 @@ Levando em consideração que este é o meu primeiro projeto e não possuo exper
 **Interface de Usuário:** Mais interetiva e convidativa.
 **Integração:** Continuar a atualizar o banco de dados.
 
-<img src="https://files.fm/thumb_show.php?i=fdsjahrx3z">
 <img src="https://files.fm/thumb_show.php?i=yvcftphk7h">
 <img src="https://files.fm/thumb_show.php?i=37fz4tw76p">
 
